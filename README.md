@@ -32,3 +32,5 @@ In our case, we have used LSTM (Long short-term memory) which is an artificial r
 household power consumption for 2 years in the future by training on the previous 2 years.
 
 LSTM is now the state-of-the-art for sequential and time-series problems.
+
+![Alt text](images/lstm.png?raw=true "Title")
